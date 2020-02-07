@@ -1,7 +1,4 @@
-Oracle 10g login Details :
 
-username : system
-password : 123blood
 
 
 
